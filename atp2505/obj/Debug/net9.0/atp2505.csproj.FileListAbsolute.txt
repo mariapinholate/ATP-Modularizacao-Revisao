@@ -1,0 +1,14 @@
+C:\Users\1646186\Desktop\atp2505\bin\Debug\net9.0\atp2505.exe
+C:\Users\1646186\Desktop\atp2505\bin\Debug\net9.0\atp2505.deps.json
+C:\Users\1646186\Desktop\atp2505\bin\Debug\net9.0\atp2505.runtimeconfig.json
+C:\Users\1646186\Desktop\atp2505\bin\Debug\net9.0\atp2505.dll
+C:\Users\1646186\Desktop\atp2505\bin\Debug\net9.0\atp2505.pdb
+C:\Users\1646186\Desktop\atp2505\obj\Debug\net9.0\atp2505.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1646186\Desktop\atp2505\obj\Debug\net9.0\atp2505.AssemblyInfoInputs.cache
+C:\Users\1646186\Desktop\atp2505\obj\Debug\net9.0\atp2505.AssemblyInfo.cs
+C:\Users\1646186\Desktop\atp2505\obj\Debug\net9.0\atp2505.csproj.CoreCompileInputs.cache
+C:\Users\1646186\Desktop\atp2505\obj\Debug\net9.0\atp2505.dll
+C:\Users\1646186\Desktop\atp2505\obj\Debug\net9.0\refint\atp2505.dll
+C:\Users\1646186\Desktop\atp2505\obj\Debug\net9.0\atp2505.pdb
+C:\Users\1646186\Desktop\atp2505\obj\Debug\net9.0\atp2505.genruntimeconfig.cache
+C:\Users\1646186\Desktop\atp2505\obj\Debug\net9.0\ref\atp2505.dll
